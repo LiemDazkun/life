@@ -1,1 +1,3 @@
 # life.
+
+classical life game
